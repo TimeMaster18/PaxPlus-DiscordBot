@@ -38,7 +38,7 @@ Before you run the bot, you need to set up your configuration.
 
 ```json
 {
-	"DISCORD_BOT_TOKEN": "YOUR_TOKEN",
+    "DISCORD_BOT_TOKEN": "YOUR_TOKEN",
     "DISCORD_CHANNEL_ID": "YOUR_CHANNEL_ID",
     "MASTER_SERVER_URL": "YOUR_MASTER_SERVER_URL",
     "SERVER_LISTINGS_ENDPOINT": "/serverListings",
