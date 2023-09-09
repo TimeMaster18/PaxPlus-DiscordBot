@@ -12,6 +12,10 @@ Hawken PaxPlus DiscordBot for server status in real-time. This bot retrieves ser
   - [Scripts](#scripts)
   - [Credits](#credits)
 
+## Example screenshot
+
+![image](https://github.com/TimeMaster18/PaxPlus-DiscordBot/assets/50962671/22b69c07-40df-4508-85d1-177fc60b1566)
+
 ## Setup
 
 1. Clone the repository:
