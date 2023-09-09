@@ -1,0 +1,91 @@
+body {
+    height: 100%;
+    letter-spacing: 0.3px;
+    font-size: 18px;
+    font-family: 'Play', sans-serif;
+    color: #9BAAAD;
+    overflow: hidden;
+}
+
+.container {
+    min-width: 600px;
+    border: solid 0.5px #4b5457;
+    background-color: black;
+}
+
+.title {
+    display: flex;
+    align-items: center;
+
+    height: 50px;
+    font-size: 20px;
+    font-family: 'Orbitron', sans-serif;
+    text-transform: uppercase;
+
+    background: linear-gradient(90deg, rgba(157,187,189,0.2) 0%, #243030 50%, #243030 50%, rgba(157,187,189,0.2) 100%);
+    border: solid 0.5px #4b5457;
+    
+    padding-left: 30px;
+    margin: 1px;
+}
+
+.servers-table {
+    width: calc(100% - 2px);  /* 2px for left and right margins */
+    border: 1px solid #465657;
+    margin: 1px;
+    
+    border-collapse: collapse;
+    font-family: 'Play', sans-serif;
+}
+
+.servers-table td, 
+.servers-table th {
+    padding: 8px;
+    border-bottom: 1px solid #465657;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(70, 86, 87);
+    border-left: none;
+    border-right: none;
+}
+
+.servers-table th {
+    text-align: left;
+}
+
+.servers-table tr:last-child td {
+    border-bottom: none;
+}
+
+.servers-table-header {
+    background-color: #1A2422;
+    font-size: 20px;
+}
+
+.spacer {
+    height: 10px;
+    background-color: #1A2223;
+    background-image: linear-gradient(-45deg, #7585866c 0.98%, #1d262600 0.98%, #1d262600 50%, #7585866c 50%, #7585866c 50.98%, #1d262600 50.98%, #15191900 100%);
+    background-size: 11.84px 11.84px;
+
+    border: solid 0.5px #4b5457;
+}
+
+.stats-table {
+    width: calc(100% - 8px);  /* 8px for left and right margins */
+    margin: 4px;
+    font-size: 16px;
+    font-family: 'Play', sans-serif;
+    border-collapse: separate;
+}
+
+.stats-table td, 
+.stats-table th {
+    padding: 8px;
+    text-align: center;
+    border: 1px solid #465657;
+}
+
+.stats-table-row {
+    background-color: #151b1b;
+}

@@ -1,0 +1,52 @@
+{
+    "meta":
+    {
+        "players": 31,
+        "capacity": 0
+    },
+    "servers":
+    {
+        "XXX.XXX.XXX.XXX:PPPPP":
+        {
+            "name": "EU2-TDM-ALLEYS",
+            "players": "2",
+            "maxPlayers": "12",
+            "added": "2023-09-09T14:41:46.650Z"
+        },
+        "YYY.YYY.YYY.YYY:PPPPP":
+        {
+            "name": "EU3-DM-SAHARA",
+            "players": "8",
+            "maxPlayers": "10",
+            "added": "2023-09-09T14:41:46.650Z"
+        },
+        "ZZZ.ZZZ.ZZZ.ZZZ:PPPPP":
+        {
+            "name": "EU4-SG-ANDROMEDA",
+            "players": "4",
+            "maxPlayers": "12",
+            "added": "2023-09-09T14:41:46.650Z"
+        },
+        "ABC.ABC.ABC.ABC:PPPPP":
+        {
+            "name": "EU4-TDM-ANDROMEDA",
+            "players": "2",
+            "maxPlayers": "12",
+            "added": "2023-09-09T14:41:46.650Z"
+        },
+        "ABC.ABC.DEF.DEF:PPPPP":
+        {
+            "name": "EU5-DM-ANDROMEDA",
+            "players": "10",
+            "maxPlayers": "16",
+            "added": "2023-09-09T14:43:38.316Z"
+        },
+        "ABC.DEF.GHI.JKL:PPPPP":
+        {
+            "name": "EU6-TDM-ANDROMEDA",
+            "players": "5",
+            "maxPlayers": "16",
+            "added": "2023-09-09T14:43:38.316Z"
+        }
+    }
+}
